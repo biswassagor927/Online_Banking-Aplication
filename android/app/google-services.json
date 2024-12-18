@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232985191765",
+    "project_id": "online-mobile-banking-system",
+    "storage_bucket": "online-mobile-banking-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232985191765:android:127123ab99b8860c46fbdc",
+        "android_client_info": {
+          "package_name": "com.example.online_mobile_banking_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiUPthpYmcHFtpd7XIXBnrLztytx7YglE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
