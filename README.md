@@ -1,7 +1,5 @@
 # online_mobile_banking_system
 
-|              App Preview             |
-| :----------------------------------: |
 
 
 
@@ -29,6 +27,3 @@
 - pin encryption storing firebse
 - Auto lock when there is no user activity
 
-|              Ui Preview             |
-| :----------------------------------: |
-| <a href="" target="_blank"><img src="" width="700"></a> |
